@@ -1,3 +1,4 @@
-# REU-2023
+# Are Power Networks Robustly Wired for Performance? Leveraging Network Analysis and Probabilistic Simulation for Robustness and Optimization
+## REU-2023
 
 <img width="670" alt="image" src="https://github.com/santtiospina/REU-2023/assets/75998236/feb00520-7824-43d5-929f-0e1a2b0c4768">
